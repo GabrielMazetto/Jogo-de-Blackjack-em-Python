@@ -1,2 +1,2 @@
 # Jogo-de-Blackjack-em-Python
-Jogo de blackjack desenvolvido em python (sem interface gráfica)
+Jogo de blackjack feito em python ainda em desenvolvimento (sem interface gráfica) 
